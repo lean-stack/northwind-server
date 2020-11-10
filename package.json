@@ -1,0 +1,19 @@
+{
+  "name": "@magro/northwind-server",
+  "version": "0.0.1",
+  "description": "Northwind Backend",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lean-stack/northwind-server.git"
+  },
+  "keywords": [
+    "northwind",
+    "json-server"
+  ],
+  "author": "Micha Alt <mail@lean-stack.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lean-stack/northwind-server/issues"
+  },
+  "homepage": "https://github.com/lean-stack/northwind-server#readme"
+}
