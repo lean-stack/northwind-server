@@ -1,6 +1,6 @@
 {
   "name": "@magro/northwind-server",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Northwind Backend",
   "scripts": {
     "start": "node server"
